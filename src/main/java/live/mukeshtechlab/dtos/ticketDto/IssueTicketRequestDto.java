@@ -1,4 +1,4 @@
-package live.mukeshtechlab.dtos;
+package live.mukeshtechlab.dtos.ticketDto;
 
 import live.mukeshtechlab.models.VehicleType;
 import lombok.Getter;
